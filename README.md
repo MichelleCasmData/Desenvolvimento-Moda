@@ -1,14 +1,25 @@
 # Desenvolvimento-estudos
+
 create database empresa1;
+
 use empresa1;
+
 create table cliente ( 
+
 matricula int primary key auto_increment, 
+
 nome varchar (60) not null,
+
  telefone char (14),
+ 
  email varchar (30),
+ 
  nascimento date not null
+ 
 );
+
 insert into cliente (nome,telefone,email,nascimento)
+
 values
 ('Ana Beatriz Souza', '(21)91234-5678', 'ana.souza@email.com', '1990-04-15'),
 
