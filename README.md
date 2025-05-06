@@ -38,5 +38,24 @@ Este projeto faz parte da minha formação contínua na área de **Análise de D
 
 ---
 
+---
+
+## 🤝 Contribuindo
+
+Este projeto é pessoal, mas estou sempre aberto a colaborações e sugestões!  
+Se você também está aprendendo ou deseja contribuir com melhorias, fique à vontade para abrir uma issue ou enviar um pull request. 😄
+
+---
+
+## 📬 Contato
+
+Se quiser trocar uma ideia sobre dados, projetos ou transição de carreira, me chama no [LinkedIn](http://linkedin.com/in/michellecasmendes)! 💬
+
+---
+
+**#SQL #BancoDeDados #Estudos #DataAnalytics #SQLStudy #PowerBI #BI**
+
+
+
 
 
